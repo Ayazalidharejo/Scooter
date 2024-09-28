@@ -1,0 +1,19 @@
+.btn1{
+  background-color: #EF8D21;
+  color: white;
+}
+.home{
+border-bottom: 2px solid #EF8D21;
+
+}
+.motor{
+  margin-left: 220px;
+}
+.benner{
+  position: absolute;
+  top: -60px;
+  left: -110px;
+}
+.coolor{
+  color: #EF8D21;
+}
